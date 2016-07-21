@@ -1,0 +1,48 @@
+.navbar-default{
+
+    background: #c1a892;
+    border-color:transparent;
+
+
+}
+
+.navbar-default .navbar-brand{
+    color:white;
+        
+}
+
+.navbar-default .navbar-nav li a{
+    color:white;
+
+    
+}
+
+.navbar-fixed-top{
+    color:white;
+}
+
+.imagenes{
+ width:100%;
+
+}
+.badge-t {
+ /*border-style: solid;
+ border-width: 1px;
+ border-color: #ffffff;
+ border-radius: 25px;*/
+ background-color: #c1a892;
+ border-radius: 25px;
+ border: 2px solid white;
+ 
+
+}
+
+.navbar-letras a{
+    color:#86898B;
+}
+
+.imagenm{
+
+    width:14%;
+    /*max-width:400px;*/
+}
